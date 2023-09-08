@@ -1,2 +1,1 @@
-# qr-code-component-Front-end-Mentor-challenge-1
-This is front end mentor challenge 1 done by my Student Umair Khan
+## This is a font-end mentor challenge 1, and this done by my student Umair Khan
